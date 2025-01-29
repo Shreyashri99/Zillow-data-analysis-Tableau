@@ -1,4 +1,4 @@
-#PropertyNest: Cracking Boston’s Housing Code
+# PropertyNest: Cracking Boston’s Housing Code
 Overview
 PropertyNest is a data-driven housing search optimization project aimed at helping users find suitable and affordable accommodations in Boston. Using Zillow rental data, we analyze housing trends, optimize property recommendations, and provide an interactive dashboard for streamlined searches based on location, budget, and living preferences.
 
